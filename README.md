@@ -8,5 +8,6 @@ Particularly tricky in this application was developing a cursor. Moreover, corre
 - CSS
 - JS
 
+## Snapshots:
 
-"# Tempo-typing" 
+![Screenshot (1741)](https://github.com/JasvinderKaur77/Tempo-typing/assets/129674937/38cb1e95-fdf4-48af-86a2-fc74ed8d11a7)
